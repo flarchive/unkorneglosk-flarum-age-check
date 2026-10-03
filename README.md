@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of unkorneglosk/flarum-age-check.** Not for installation: use [Packagist](https://packagist.org/packages/unkorneglosk/flarum-age-check) or the [upstream repository](https://github.com/Unkorneglosk/flarum-age-check).
 
-**0** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/unkorneglosk-flarum-age-check/tree/archive/v0.0.3) · License: `GPL-3.0-or-later` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/unkorneglosk-flarum-age-check/tree/archive/v0.0.3) · License: `GPL-3.0-or-later` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2021-12-02 | `^1.0.0` | [Browse](https://github.com/flarchive/unkorneglosk-flarum-age-check/tree/archive/v0.0.1) |
+| `0.0.2` | 2021-12-02 | `^1.0.0` | [Browse](https://github.com/flarchive/unkorneglosk-flarum-age-check/tree/archive/v0.0.2) |
+| `0.0.3` | 2021-12-08 | `^1.0.0` | [Browse](https://github.com/flarchive/unkorneglosk-flarum-age-check/tree/archive/v0.0.3) |
 
 Catalog entry: [packages/unkorneglosk-flarum-age-check.json](https://github.com/flarchive/archive-index/blob/main/packages/unkorneglosk-flarum-age-check.json)
 
